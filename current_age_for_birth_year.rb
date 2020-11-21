@@ -1,4 +1,4 @@
-def current_age_for_birth_year('1984')
+ require_relative current_age_for_birth_year('1984')
   puts 'current'
   current = ('2003')
   puts 'birth_year'
